@@ -22,8 +22,11 @@ Example
 root@e0b9d1158027:/# k get pods
 NAME                              READY   STATUS             RESTARTS   AGE
 sam-7d48dd8f5d-5vcj7              0/1     CrashLoopBackOff   33         146m
+
 sam-pod-monitor-dd5595875-c9wks   1/1     Running            0          63m
+
 sam1-58786d8c98-j9hzh             0/1     CrashLoopBackOff   33         145m
+
 sty-85d8797b86-82bn2              1/1     Running            0          126m
 
 
